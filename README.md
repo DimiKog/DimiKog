@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/INSERT_YOUR_USER_ID_HERE?v=4" width="120" alt="Dimitris Kogias Avatar" />
+  <img src="https://avatars.githubusercontent.com/u/116021475?v=4" width="120" alt="Dimitris Kogias Avatar" />
 </p>
 
 <h1 align="center">Hi, I'm Dimitris G. Kogias 👋</h1>
