@@ -62,7 +62,7 @@
 
 - PhD in **Computer Networks**
 - Editor & author in blockchain research (IEEE, MDPI, Springer)
-- Contributor to **Horizon Europe** proposals: *CIRCAR, PANORAIMA, TARDIS*
+- Contributor to **Horizon Europe** projects: *FASTER, GENERA, PANORAIMA, TARDIS*
 - 12 thesis supervisions (Blockchain-focused)
 
 ---
