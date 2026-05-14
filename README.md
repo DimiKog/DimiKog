@@ -64,11 +64,13 @@ I am especially interested in how decentralized identifiers, digital wallets, ve
 
 ---
 
+---
+
 ## 🎓 Academic & Research Work
 
 - PhD in **Computer Networks**
 - Researcher and lecturer in blockchain, distributed systems, and cybersecurity topics
-- Editor and author in blockchain and distributed systems research venues
+- Author, reviewer, and editor in blockchain, distributed systems, and cybersecurity research venues
 - Contributor to European research projects, including **FASTER**, **GENERA**, **PANORAIMA**, and **TARDIS**
 - Thesis supervision in blockchain, Web3, smart contracts, and decentralized identity topics
 - Current research interests include verifiable learning records, digital wallets, decentralized identifiers, verifiable credentials, zero-knowledge proofs, and educational blockchain infrastructure
@@ -90,12 +92,9 @@ This work is connected to **Web3Edu**, a research-driven learning initiative foc
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimiKog&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimiKog&layout=compact&theme=default" height="150">
-</p>
+I use pinned repositories to highlight work related to digital identity, verifiable learning records, blockchain infrastructure, and Web3 education.
 
 ---
 
