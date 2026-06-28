@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/116021475?v=4" width="120" alt="Dimitris Kogias Avatar" />
 </p>
 
-<h1 align="center">Hi, I'm Dimitris G. Kogias 👋</h1>
+<h1 align="center">Hi, I'm Dimitrios G. Kogias 👋</h1>
 
 <p align="center">
   <em>Elected Assistant Professor · Distributed Computing · Edge Computing · Digital Trust</em>
